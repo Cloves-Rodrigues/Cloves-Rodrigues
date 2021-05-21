@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Cloves-Rodrigues/Cloves-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <p align="center">
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
@@ -18,6 +13,9 @@ Here are some ideas to get you started:
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
+
+<!--
+**Cloves-Rodrigues/Cloves-Rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
