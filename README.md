@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
+  <img src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%" border-radius="10px">
+  
   <br><br>
   <samp>
     I'm Omer Quadri :wave:
