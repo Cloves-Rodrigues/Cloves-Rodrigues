@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.weareteachers.com%2Fnational-cat-day-teachers%2F&psig=AOvVaw1e5Te1xGgmgF5QcvWKNU_B&ust=1621690876633000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDX1Lnz2vACFQAAAAAdAAAAABAD width="30%">
   <br><br>
   <samp>
     I'm Omer Quadri :wave:
