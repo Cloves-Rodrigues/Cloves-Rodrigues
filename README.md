@@ -1,17 +1,37 @@
 <div align="center">
+<img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
 <h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
-<p display="flex" margin="5px" padding="5px">
-  <img border-radius="10px" border="solid 2px blue" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
+
+<p>I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
+
+<p align="left">
   <br>
 - 🔭 I’m currently working as a Freelancer!<br>
 - 🌱 I’m learning NodeJs and Python.<br>
 - 👯 I'm looking to collaborate with other website creators.<br>
 - 🤔 I’m looking for help with PHP8, Angular, C#<br>
 - ⚡ Fun fact: I love draw manga and making custom website pages.<br>
-
   <samp>
     ###P.S. I do know that HTML is not a programming language! :v:###
   </samp>
+</p>
+ <img align="right" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
+<p>
+👩‍💻 I am working on:
+<ul>
+<li>Construction projects and my portfolio website. However, I think I'll wait to learn React before building the site.</li>
+<li>Bootcamp Santander2021(28/06-12/09)</li>
+<li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
+</ul>
+<br>
+💡 Goals for 2020
+<ul>
+<li>My webisite up</li>
+<li>Complete Bootcamp Santander Full Stack by September 2020</li>
+<li>Create 10 projects</li>
+<li>Learn React to the Intermediate</li>
+<li>Work more on social media</li>
+</ul>
 </p>
 
 <p align="center">
