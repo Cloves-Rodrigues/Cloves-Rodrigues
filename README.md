@@ -3,7 +3,7 @@
 <h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
 
 <p>I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
-
+<img align="right" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
 <p align="left">
   <br>
 - 🔭 I’m currently working as a Freelancer!<br>
@@ -15,7 +15,7 @@
     ###P.S. I do know that HTML is not a programming language! :v:###
   </samp>
 </p>
- <img align="right" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
+
 <p>
 👩‍💻 I am working on:
 <ul>
