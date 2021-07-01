@@ -1,5 +1,6 @@
+<div align="center">
 ### Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]
-<p align="left">
+<p>
   <img src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
   <br>
 - 🔭 I’m currently working as a Freelancer!<br>
@@ -23,7 +24,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img scr="https://raw.githubusercontent.com/Quadrified/Quadrified/00036747dc5e86839364e33bfb8b8daf9a8cdc5f/assets/svg/dev/services/office_365.svg" alt="ofc365" style="vertical-align:top; margin:4px">
 
 ---
 </p>
@@ -46,4 +46,4 @@
     </a>
   </p> -->
 </div>
-
+</div>
