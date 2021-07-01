@@ -1,17 +1,16 @@
 <div align="center">
-### Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]
-<p>
-  <img src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
+<h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
+<p display="flex" margin="5px" padding="5px">
+  <img border-radius="10px" border="solid 2px blue" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
   <br>
 - 🔭 I’m currently working as a Freelancer!<br>
-- 🌱 I’m currently learning NodeJs and Python.<br>
+- 🌱 I’m learning NodeJs and Python.<br>
 - 👯 I'm looking to collaborate with other website creators.<br>
 - 🤔 I’m looking for help with PHP8, Angular, C#<br>
 - ⚡ Fun fact: I love draw manga and making custom website pages.<br>
 
   <samp>
-    I'm 
-    P.S. I do know that HTML is not a programming language! :v:
+    ###P.S. I do know that HTML is not a programming language! :v:###
   </samp>
 </p>
 
@@ -24,7 +23,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
 ---
 </p>
 <div>
