@@ -28,7 +28,8 @@
 <!-- Github_Stats_Align_right-->
   <div align="left">
  <!-- coleaqui -->
-   ![Cloves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple)
+
+   <img alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple">
   <!-- /coleaqui -->
   </div>
 <!-- /Github_Stats_Align_right-->
@@ -47,8 +48,11 @@
 <!-- Github_top_linguagens_align_left -->
   <div align="right">
   <!-- coleaqui -->
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=github-readme-stats&theme=midnight-purple">
+
   <!-- /coleaqui -->
+
   </div>
 <!-- /Github_top_linguagens_align_left -->
 
