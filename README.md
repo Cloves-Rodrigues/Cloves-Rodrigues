@@ -8,8 +8,8 @@
 
   <!-- Texto de preferência -->
   <div class="contain" style=" height:150px;">
-  <div class="img_position" align="right" right="20px">
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="200px" height="140px" align="right">
+  <div class="img_position" align="right">
+    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="220px" height="140px" align="right">
   </div>
     <p class="img_relative_algninleft" align="left">
     - 🔭 I’m currently working as a Freelancer!<br>
@@ -33,7 +33,7 @@
   </div>
 <!-- /Github_Stats_Align_right-->
 
-  <div>
+  <div align="right">
   👩‍💻 I am working on:
   
   <li>Construction projects and my portfolio website.<br>
