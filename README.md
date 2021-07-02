@@ -1,5 +1,5 @@
   <!-- Header -->
-  <img src="width="100%" align="center">
+  
   <!-- Introduction: It´s me -->
   <h3 align="center"> >>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin (in construction)]<< </h3>
   <p align="center">I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
@@ -7,7 +7,7 @@
   ---
 
   <!-- Texto de preferência -->
-  <div>
+  <div style=" height:100px;">
     <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="15%" align="right">
     <p>
     - 🔭 I’m currently working as a Freelancer!<br>
