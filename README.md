@@ -7,8 +7,10 @@
   ---
 
   <!-- Texto de preferência -->
-  <div style=" height:100px;">
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="15%" align="right">
+  <div style=" height:150px;">
+  <div>
+    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="100%" align="right">
+  </div>
     <p>
     - 🔭 I’m currently working as a Freelancer!<br>
     - 🌱 I’m learning NodeJs and Python.<br>
