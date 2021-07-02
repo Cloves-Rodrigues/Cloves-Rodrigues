@@ -1,5 +1,5 @@
   <!-- Header -->
-  
+  <img src="20 anos Estudante Engenharia da Computação.png" alt="reference" align="left">
   <!-- Introduction: It´s me -->
   <h3 align="center"> >>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin (in construction)]<< </h3>
   <p align="center">I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
@@ -7,7 +7,7 @@
   ---
 
   <!-- Texto de preferência -->
-  <div class="contain" style=" height:150px;">
+  <div class="contain" style=" height:150px;"> 
   <div class="img_position" align="right">
     <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="220px" height="140px" align="right">
   </div>
