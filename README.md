@@ -28,7 +28,7 @@
 <!-- Github_Stats_Align_right-->
   <div align="left">
  <!-- coleaqui -->
-   <img width="80%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple">
+   <img width="20%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple">
   <!-- /coleaqui -->
   </div>
 <!-- /Github_Stats_Align_right-->
@@ -47,8 +47,6 @@
 <!-- Github_top_linguagens_align_left -->
   <div align="right">
   <!-- coleaqui -->
-
-  <img width="60%" alt="Readme Card" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=github-readme-stats&theme=midnight-purple">
 
   <!-- /coleaqui -->
 
