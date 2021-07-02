@@ -26,17 +26,17 @@
   ---
 
 <!-- Github_Stats_Align_right-->
-  <div>
+  <div align="left">
  <!-- coleaqui -->
-
+   ![Cloves's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple)
   <!-- /coleaqui -->
   </div>
 <!-- /Github_Stats_Align_right-->
 
-  <div align="right">
+  <div>
   👩‍💻 I am working on:
   
-  <li align="left" >Construction projects and my portfolio website.<br>
+  <li>Construction projects and my portfolio website.<br>
   However, I think I'll wait to learn React before building the site.</li>
   <li>Bootcamp Santander2021(28/06-12/09)</li>
   <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
@@ -45,9 +45,9 @@
   ---
 
 <!-- Github_top_linguagens_align_left -->
-  <div>
+  <div align="right">
   <!-- coleaqui -->
-
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=github-readme-stats&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
   <!-- /coleaqui -->
   </div>
 <!-- /Github_top_linguagens_align_left -->
