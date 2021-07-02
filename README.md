@@ -8,7 +8,7 @@
 
 <!-- Texto de preferência -->
 <div>
-  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="20%" align="right">
+  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="16%" align="right">
   <p>
   - 🔭 I’m currently working as a Freelancer!<br>
   - 🌱 I’m learning NodeJs and Python.<br>
@@ -38,9 +38,9 @@ However, I think I'll wait to learn React before building the site.</li>
 
 
 <div>
-<img src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Estatísticas do GitHub de Anurag" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
+<img align="right" src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Estatísticas do GitHub de Anurag" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
 <!-- <img align="rigth" src="(https://github-readme-stats.vercel.app/api/wakatime?username=Cloves-Rodrigues)"> -->
-<p align="left">
+<p >
 💡 Goals for 2020
 <ul>
 <li>My webisite up</li>
