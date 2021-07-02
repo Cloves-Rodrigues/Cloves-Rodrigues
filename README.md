@@ -9,8 +9,7 @@
 <!-- Texto de preferência -->
 <div>
   <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="100px" height="100px" align="right">
-
-  <p align="left">
+  <p>
   - 🔭 I’m currently working as a Freelancer!<br>
   - 🌱 I’m learning NodeJs and Python.<br>
   - 👯 I'm looking to collaborate with other website creators.<br>
@@ -23,17 +22,17 @@
 </div>
 
 ---
+
 <div>
 <img align="left" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="400px" height="300px">
 
-<p align="right">
+<p>
 👩‍💻 I am working on:
-<ul>
+<br>
 <li>Construction projects and my portfolio website.<br>
 However, I think I'll wait to learn React before building the site.</li>
 <li>Bootcamp Santander2021(28/06-12/09)</li>
 <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-</ul>
 </p>
 </div>
 
