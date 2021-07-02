@@ -15,8 +15,8 @@
     ###P.S. I do know that HTML is not a programming language! :v:###
   </samp>
 </p>
-
-<p>
+<br>
+<p align="right">
 👩‍💻 I am working on:
 <ul>
 <li>Construction projects and my portfolio website. However, I think I'll wait to learn React before building the site.</li>
@@ -33,7 +33,9 @@
 <li>Work more on social media</li>
 </ul>
 </p>
+![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&count_private=true)
 
+<br>
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
