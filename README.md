@@ -8,10 +8,10 @@
 
   <!-- Texto de preferência -->
   <div class="contain" style=" height:150px;">
-  <div class="img_position" align="left">
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="100px" align="right">
+  <div class="img_position" align="right">
+    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="180px" align="right">
   </div>
-    <p class="img_relative_algninleft" align="right">
+    <p class="img_relative_algninleft" align="left">
     - 🔭 I’m currently working as a Freelancer!<br>
     - 🌱 I’m learning NodeJs and Python.<br>
     - 👯 I'm looking to collaborate with other website creators.<br>
