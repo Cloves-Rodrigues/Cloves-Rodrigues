@@ -102,3 +102,8 @@ I´m a computer engineering student at the university center of the united metro
   </div>
 <!-- /Social_midia_icon_link -->
 <img src="thanks for see.svg" width="100%" alt="thanks">
+  
+  ---
+  
+  ![Clove's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=radical)
+
