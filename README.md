@@ -8,7 +8,7 @@
 
 <!-- Texto de preferência -->
 <div>
-  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="500px" height="500px" align="right">
+  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="100px" height="100px" align="right">
 
   <p align="left">
   - 🔭 I’m currently working as a Freelancer!<br>
