@@ -1,5 +1,5 @@
 <!-- <div align="center"> -->
-<img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" style="max-width:60%; border:2px solid white;border-radius:10px;">
+<img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" max-width="60%">
 <h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
 
 <p>I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
