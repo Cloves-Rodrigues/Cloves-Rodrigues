@@ -50,8 +50,9 @@ However, I think I'll wait to learn React before building the site.</li>
 </div>
 
 <br>
+<img src="(https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)">
 
-<img align="rigt" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)" max-width="100%">
+<!-- vision-friendly-dark)"  -->
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
