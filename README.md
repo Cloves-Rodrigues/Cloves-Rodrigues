@@ -28,7 +28,7 @@ I´m a computer engineering student at the university center of the united metro
 <!-- Github_Stats_Align_right-->
   <div >
  <!-- coleaqui -->
-   ![Clove's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&layout= compact;&bg_color=0B0223)
+   
   <!-- /coleaqui -->
 <!-- /Github_Stats_Align_right-->
 <p>
@@ -45,8 +45,10 @@ I´m a computer engineering student at the university center of the united metro
 <!-- Github_top_linguagens_align_left -->
   <div >
   <!-- coleaqui -->
+    
   <img align="right" src="https://camo.githubusercontent.com/115260e7df0fdeadfc7c745a3af4d43145d81473908055eb470614acda37c323/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61656d6d61646926686964653d546558266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloves-Rodrigues&amp;hide=TeX&amp;layout=compact&text_color=5F45FF&bg_color=0B0223" style="max-width:100%;">
   <!-- /coleaqui -->
+    
 <!-- /Github_top_linguagens_align_left -->
 
 <!-- List2_align left -->
@@ -85,6 +87,18 @@ I´m a computer engineering student at the university center of the united metro
 
   ---
 
+<!--   Edit_tags_card-->
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Cloves-Rodrigues">
+  [![willianrod's wakatime stats(https://github-readme-stats.vercel.app/api/wakatime?username=Cloves-Rodrigues)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+<!--  /Edit_tags_card  -->
+  
+  ---
+  
 <!-- Social_midia_icon_link -->
   <div align="center">
     <a href="https://www.youtube.com/" rel="nofollow" target="_blank">
