@@ -24,7 +24,7 @@
 ---
 
 <div>
-<img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="400px" height="300px">
+<img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" max-width="100%">
 
 <p>
 👩‍💻 I am working on:
@@ -51,7 +51,7 @@ However, I think I'll wait to learn React before building the site.</li>
 
 <br>
 
-<img align="rigt" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)" width="400px" height="300px">
+<img align="rigt" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)" max-width="100%">
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
