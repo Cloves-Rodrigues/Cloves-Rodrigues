@@ -28,7 +28,7 @@ I´m a computer engineering student at the university center of the united metro
 <!-- Github_Stats_Align_right-->
   <div >
  <!-- coleaqui -->
-   <img align="left" width="45%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple&amp;layout=compact">
+   <img align="left" width="45%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&bg_color=0B0223;&layout=compact">
   <!-- /coleaqui -->
 <!-- /Github_Stats_Align_right-->
 <p>
