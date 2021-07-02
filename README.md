@@ -8,7 +8,7 @@
 
 <!-- Texto de preferência -->
 <div>
-  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="50" height="50" align="right">
+  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="50px" height="50px" align="right">
 
   <p align="left">
   - 🔭 I’m currently working as a Freelancer!<br>
@@ -24,9 +24,9 @@
 
 ---
 <div>
-<img align="right" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="80" height="40">
+<img align="left" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="80px" height="40px">
 
-<p align="left">
+<p align="right">
 👩‍💻 I am working on:
 <ul>
 <li>Construction projects and my portfolio website.<br>
