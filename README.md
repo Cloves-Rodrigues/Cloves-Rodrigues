@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 <img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
 <h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
 
@@ -16,6 +16,10 @@
   </samp>
 </p>
 <br>
+
+![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme-radical)
+
+
 <p align="left">
 👩‍💻 I am working on:
 <ul>
@@ -33,9 +37,7 @@
 <li>Work more on social media</li>
 </ul>
 </p>
-<p align="left">
-![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme-radical)
-</p>
+
 <br>
 <p align="center">
 
@@ -48,7 +50,7 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 ---
 </p>
-<div>
+<div align="center">
   <a href="https://www.youtube.com/" rel="nofollow">
       <img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width:100%;">
   </a>
@@ -67,4 +69,4 @@
     </a>
   </p> -->
 </div>
-</div>
+<!-- </div> -->
