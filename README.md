@@ -25,7 +25,7 @@
   <br>
 
   <div>
-  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true" max-width="100%" text_color="#5F45FF " title_color="#BE0D97" bg_color="#0B0223" icon_color="#00B4BF" border_radius="10px" border_color="white">
+  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true" max-width="100%" style="text_color:#5F45FF;title_color=#BE0D97;bg_color=#0B0223;icon_color=#00B4BF;border_radius=10px;border_color=white;">
 
   <p>
   👩‍💻 I am working on:
