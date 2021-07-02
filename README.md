@@ -8,7 +8,7 @@
 
   <!-- Texto de preferência -->
   <div>
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" max-width="20%" height="16%" align="right">
+    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="20%" height="16%" align="right">
     <p>
     - 🔭 I’m currently working as a Freelancer!<br>
     - 🌱 I’m learning NodeJs and Python.<br>
@@ -25,43 +25,41 @@
   <br>
 
   <div>
-  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;vision-friendly-dark" max-width="100%">
+  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true" max-width="100%" text_color="#5F45FF " title_color="#BE0D97" bg_color="#0B0223" icon_color="#00B4BF" border_radius="10px" border_color="white">
 
   <p>
   👩‍💻 I am working on:
-  <br>
+  </p>
   <li>Construction projects and my portfolio website.<br>
   However, I think I'll wait to learn React before building the site.</li>
   <li>Bootcamp Santander2021(28/06-12/09)</li>
   <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-  </p>
   </div>
 
   ---
 
   <div>
   <img align="right" src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Estatísticas do GitHub de Anurag" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;vision-friendly-dark" style="max-width:100%;">
-  <p >
+  <p>
   💡 Goals for 2020
-  <ul>
+  </p>
   <li>My webisite up</li>
   <li>Complete Bootcamp Santander Full Stack by September 2020</li>
   <li>Create 10 projects</li>
   <li>Learn "ReactJS" to the Intermediate</li>
   <li>Work more on social media</li>
-  </ul>
-  </p>
+ 
   </div>
 
   <br>
 
   ---
   <div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues=github-readme-stats" />
+    <a href="https://github.com/Cloves-Rodrigues">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues=github-readme-stats" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=convoychat" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=convoychat" />
     </a>
   </div>
 
