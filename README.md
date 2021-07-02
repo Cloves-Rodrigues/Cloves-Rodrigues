@@ -8,7 +8,7 @@
 
   <!-- Texto de preferência -->
   <div class="contain" style=" height:150px;">
-  <div class="img_position" align="right">
+  <div class="img_position" align="right" right="20px">
     <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="200px" height="140px" align="right">
   </div>
     <p class="img_relative_algninleft" align="left">
