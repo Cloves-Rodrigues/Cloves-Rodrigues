@@ -1,5 +1,5 @@
   <!-- Header -->
-  <img src="gitprofile.png" width="100%" align="center">
+  <img src="width="100%" align="center">
   <!-- Introduction: It´s me -->
   <h3 align="center"> >>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin (in construction)]<< </h3>
   <p align="center">I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
@@ -8,7 +8,7 @@
 
   <!-- Texto de preferência -->
   <div>
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="20%" height="16%" align="right">
+    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="20%" align="right">
     <p>
     - 🔭 I’m currently working as a Freelancer!<br>
     - 🌱 I’m learning NodeJs and Python.<br>
@@ -25,7 +25,7 @@
   <br>
 
   <div>
-  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true" max-width="100%" style="text_color:#5F45FF;title_color=#BE0D97;bg_color=#0B0223;icon_color=#00B4BF;border_radius=10px;border_color=white;">
+  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" max-width="100%">
 
   <p>
   👩‍💻 I am working on:
@@ -39,7 +39,7 @@
   ---
 
   <div>
-  <img align="right" src="https://camo.githubusercontent.com/ffcbbe1dfca600112a808bb11b32f113ebd2bf315c976528d92c57cefcfb4262/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Estatísticas do GitHub de Anurag" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;vision-friendly-dark" style="max-width:100%;">
+
   <p>
   💡 Goals for 2020
   </p>
