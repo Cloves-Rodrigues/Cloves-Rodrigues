@@ -16,7 +16,7 @@
   </samp>
 </p>
 <br>
-<p align="right">
+<p align="left">
 👩‍💻 I am working on:
 <ul>
 <li>Construction projects and my portfolio website. However, I think I'll wait to learn React before building the site.</li>
@@ -33,8 +33,9 @@
 <li>Work more on social media</li>
 </ul>
 </p>
-![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&count_private=true)
-
+<p align="left">
+![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme-radical)
+</p>
 <br>
 <p align="center">
 
