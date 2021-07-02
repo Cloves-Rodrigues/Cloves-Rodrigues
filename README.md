@@ -7,11 +7,11 @@
   ---
 
   <!-- Texto de preferência -->
-  <div style=" height:150px;">
-  <div style=" width:40%; heigth:80px;">
+  <div class="contain" style=" height:150px;">
+  <div class="img_position" style=" width:40%; heigth:80px;">
     <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="100%" align="right">
   </div>
-    <p>
+    <p class="img_relative_algninleft">
     - 🔭 I’m currently working as a Freelancer!<br>
     - 🌱 I’m learning NodeJs and Python.<br>
     - 👯 I'm looking to collaborate with other website creators.<br>
