@@ -22,14 +22,18 @@
   </div>
 
   ---
-  <br>
+
+<!-- Github_Stats_Align_right-->
+  <div>
+ <!-- coleaqui -->
+
+  <!-- /coleaqui -->
+  </div>
+<!-- /Github_Stats_Align_right-->
 
   <div>
-  <img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" max-width="100%">
-
-  <p>
   👩‍💻 I am working on:
-  </p>
+  
   <li>Construction projects and my portfolio website.<br>
   However, I think I'll wait to learn React before building the site.</li>
   <li>Bootcamp Santander2021(28/06-12/09)</li>
@@ -38,45 +42,50 @@
 
   ---
 
+<!-- Github_top_linguagens_align_left -->
   <div>
+  <!-- coleaqui -->
 
-  <p>
+  <!-- /coleaqui -->
+  </div>
+<!-- /Github_top_linguagens_align_left -->
+
+<!-- List2_align left -->
+ <div>
   💡 Goals for 2020
-  </p>
+
   <li>My webisite up</li>
   <li>Complete Bootcamp Santander Full Stack by September 2020</li>
   <li>Create 10 projects</li>
   <li>Learn "ReactJS" to the Intermediate</li>
   <li>Work more on social media</li>
- 
   </div>
-
-  <br>
+<!-- /List2_align left -->
 
   ---
+
+  <!-- Addons_api -->
   <div>
-    <a href="https://github.com/Cloves-Rodrigues">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues=github-readme-stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=convoychat" />
-    </a>
+   
   </div>
-
-  <!-- vision-friendly-dark"  -->
-  ---
-
-  <p align="center">
-    <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  </p>
+  <!-- /Addons_api -->
 
   ---
 
+<!-- Icons_habilidades -->
+  <div align="center">
+      <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
+      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+      <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+      <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  </div>
+<!-- /Icons_habilidades -->
+
+  ---
+
+<!-- Social_midia_icon_link -->
   <div align="center">
     <a href="https://www.youtube.com/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width:100%;">
@@ -91,4 +100,5 @@
         <img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
     </a> 
   </div>
+<!-- /Social_midia_icon_link -->
 
