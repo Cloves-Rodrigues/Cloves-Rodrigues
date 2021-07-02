@@ -17,13 +17,14 @@
 </p>
 <br>
 
-![Cloves GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme-radical)
+
 
 
 <p align="left">
 👩‍💻 I am working on:
 <ul>
-<li>Construction projects and my portfolio website. However, I think I'll wait to learn React before building the site.</li>
+<li>Construction projects and my portfolio website.<br>
+However, I think I'll wait to learn React before building the site.</li>
 <li>Bootcamp Santander2021(28/06-12/09)</li>
 <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
 </ul>
@@ -38,6 +39,7 @@
 </ul>
 </p>
 
+<img align="left" src="https://camo.githubusercontent.com/a4da16c6b473715e25e6daa8d90ed2f24aba72bead8be39fa9a1e2af695c529f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73616e6b6574393030362673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Estatísticas do github de Cloves" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;theme=radical" style="max-width:100%;">
 <br>
 <p align="center">
 
