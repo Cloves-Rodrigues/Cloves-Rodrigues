@@ -33,14 +33,13 @@
   </div>
 <!-- /Github_Stats_Align_right-->
 
-  <div>
   👩‍💻 I am working on:
   
   <li>Construction projects and my portfolio website.<br>
   However, I think I'll wait to learn React before building the site.</li>
   <li>Bootcamp Santander2021(28/06-12/09)</li>
   <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-  </div>
+
 
   ---
 
