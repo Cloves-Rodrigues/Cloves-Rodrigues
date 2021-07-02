@@ -1,8 +1,8 @@
   <!-- Header -->
   <img src="• dev_ (1).png" width="100%">
   <!-- Introduction: It´s me -->
-  <h2 align="center"><strong>Hi there! I´m Cloves Neto,</strong> an entusiasty web development and programming of systems ERP.
-I´m a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development and tools for ERP systems. Feel free, see the projects I developed and follow me to see future projects and tips for web programming in my social networks.</h2>
+  <p align="center"><b>Hi there! I´m Cloves Neto,</b> an entusiasty web development and programming of systems ERP.
+I´m a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development and tools for ERP systems. Feel free, see the projects I developed and follow me to see future projects and tips for web programming in my social networks.</p>
 
   ---
 
