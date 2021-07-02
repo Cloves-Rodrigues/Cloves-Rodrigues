@@ -28,7 +28,7 @@ I´m a computer engineering student at the university center of the united metro
 <!-- Github_Stats_Align_right-->
   <div >
  <!-- coleaqui -->
-   <img align="left" width="45%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&bg_color=0B0223;&layout=compact">
+   ![Clove's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&layout= compact;&bg_color=0B0223)
   <!-- /coleaqui -->
 <!-- /Github_Stats_Align_right-->
 <p>
@@ -103,8 +103,5 @@ I´m a computer engineering student at the university center of the united metro
 <!-- /Social_midia_icon_link -->
 <img src="thanks for see.svg" width="100%" alt="thanks">
   
-  ---
-  
-  ![Clove's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&bg_color=0B0223)
 
 <!-- &theme=radical -->
