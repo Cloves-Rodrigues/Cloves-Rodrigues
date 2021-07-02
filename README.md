@@ -1,24 +1,30 @@
-<!-- <div align="center"> -->
-<img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" max-width="60%">
-<h1 color="blue">>>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin ]<<</h1>
-
+<!-- Header -->
+<img src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966" width="100%" align="center">
+<!-- Introduction: It´s me -->
+<h3> >>Hi there, I´m Cloves - [ Web developer and design / UX-UI Desigin (in construction)]<< </h3>
 <p>I am a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development. Feel free, see the projects I developed and follow me to see future projects and tips for web programming.</p>
-<img align="right" src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="30%">
-<p align="left">
-  <br>
-- 🔭 I’m currently working as a Freelancer!<br>
-- 🌱 I’m learning NodeJs and Python.<br>
-- 👯 I'm looking to collaborate with other website creators.<br>
-- 🤔 I’m looking for help with PHP8, Angular, C#<br>
-- ⚡ Fun fact: I love draw manga and making custom website pages.<br>
-  <samp>
-    ###P.S. I do know that HTML is not a programming language! :v:###
-  </samp>
-</p>
-<br>
 
+---
 
+<!-- Texto de preferência -->
+<div>
+  <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="50" height="50" align="right">
 
+  <p align="left">
+  - 🔭 I’m currently working as a Freelancer!<br>
+  - 🌱 I’m learning NodeJs and Python.<br>
+  - 👯 I'm looking to collaborate with other website creators.<br>
+  - 🤔 I’m looking for help with PHP8, Angular, C#<br>
+  - ⚡ Fun fact: I love draw manga and making custom website pages.<br>
+    <samp>
+      ###P.S. I do know that HTML is not a programming language! :v:###
+    </samp>
+  </p>
+</div>
+
+---
+<div>
+<img align="right" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="80" height="40">
 
 <p align="left">
 👩‍💻 I am working on:
@@ -28,7 +34,12 @@ However, I think I'll wait to learn React before building the site.</li>
 <li>Bootcamp Santander2021(28/06-12/09)</li>
 <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
 </ul>
-<br>
+</p>
+</div>
+
+---
+<div>
+<p>
 💡 Goals for 2020
 <ul>
 <li>My webisite up</li>
@@ -38,11 +49,13 @@ However, I think I'll wait to learn React before building the site.</li>
 <li>Work more on social media</li>
 </ul>
 </p>
+</div>
 
-<img align="right" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;theme=radical" style="max-width:60%; border-radius:10px;">
 <br>
-<p align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)
+
+<p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
