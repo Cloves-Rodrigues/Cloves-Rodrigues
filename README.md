@@ -36,9 +36,8 @@ However, I think I'll wait to learn React before building the site.</li>
 </p>
 </div>
 
----
 <div>
-<p>
+<p align="left">
 💡 Goals for 2020
 <ul>
 <li>My webisite up</li>
@@ -52,11 +51,10 @@ However, I think I'll wait to learn React before building the site.</li>
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)
+<img align="rigt" src="(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats&amp;vision-friendly-dark)" width="400px" height="300px">
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
