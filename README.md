@@ -24,7 +24,7 @@
 ---
 
 <div>
-<img align="left" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="400px" height="300px">
+<img align="left" top="20px" alt="Estatísticas do github de Cloves" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&amp;show_icons=true&amp;midnight-purple" width="400px" height="300px">
 
 <p>
 👩‍💻 I am working on:
