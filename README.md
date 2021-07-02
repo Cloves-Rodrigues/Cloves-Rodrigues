@@ -26,21 +26,19 @@
   ---
 
 <!-- Github_Stats_Align_right-->
-  <div align="left">
+  <div >
  <!-- coleaqui -->
-   <img width="20%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple">
+   <img align="left" width="40%" alt="Cloves's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=midnight-purple&amp;layout=compact">
   <!-- /coleaqui -->
-  </div>
 <!-- /Github_Stats_Align_right-->
-
+  <p align="right">
   👩‍💻 I am working on:
   
   <li>Construction projects and my portfolio website.<br>
   However, I think I'll wait to learn React before building the site.</li>
   <li>Bootcamp Santander2021(28/06-12/09)</li>
   <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-
-
+  
   ---
 
 <!-- Github_top_linguagens_align_left -->
