@@ -27,9 +27,7 @@ I´m a computer engineering student at the university center of the united metro
 
 <!-- Github_Stats_Align_right-->
  <!-- coleaqui -->
-   <div align="left">
-     <img  alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-   </div>
+     <img  align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
   <!-- /coleaqui -->
 <!-- /Github_Stats_Align_right-->
 <p>
@@ -42,18 +40,20 @@ I´m a computer engineering student at the university center of the united metro
 </p>
   
   ---
-
+###Habiliades
 <!-- Github_top_linguagens_align_left -->
   <!-- coleaqui -->
-      <div>
-         <a href="https://github.com/Cloves-Rodrigues/github-readme-stats">
-           <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Cloves-Rodrigues&repo=github-readme-stats" />
-         </a>
-      </div>
+      <habilidades nvl>
+          <htm> intermadiário </html>
+          <css> intermediário </css>
+          <javascript> intermediário </javascript> 
+          <reactjs> cursando bootcamp localiza </reactjs>
+      </habilidades nvl>
   <!-- /coleaqui -->
 <!-- /Github_top_linguagens_align_left -->
 
 <!-- List2_align left -->
+###Goals
   <p align="left">
   💡 Goals for 2020
 
@@ -92,7 +92,7 @@ I´m a computer engineering student at the university center of the united metro
 <!--  /Edit_tags_card  -->
   
   ---
-  
+ ###Social
 <!-- Social_midia_icon_link -->
   <div align="center">
     <a href="https://www.youtube.com/" rel="nofollow" target="_blank">
