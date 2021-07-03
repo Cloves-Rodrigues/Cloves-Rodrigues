@@ -1,83 +1,99 @@
   <!-- Header -->
   <img src="• dev_ (1).png" width="100%">
   <!-- Introduction: It´s me -->
-  <p align="center"><b>Hi there! I´m Cloves Neto,</b> an entusiasty web development and programming of systems ERP.
+  <p align="center"><b>Hi there! I´m Cloves Neto,</b><br> an entusiasty web development and programming of systems ERP.
 I´m a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development and tools for ERP systems. Feel free, see the projects I developed and follow me to see future projects and tips for web programming in my social networks.</p>
 
   ---
+ 
+  
+  ---
 
   <!-- Texto de preferência -->
-  <div class="contain" style=" height:150px;"> 
-  <div class="img_position" align="right">
-    <img  src= "https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" width="220px" height="140px" align="right">
-  </div>
-    <p class="img_relative_algninleft" align="left">
-    - 🔭 I’m currently working as a Freelancer!<br>
-    - 🌱 I’m learning NodeJs and Python.<br>
-    - 👯 I'm looking to collaborate with other website creators.<br>
-    - 🤔 I’m looking for help with PHP8, Angular, C#<br>
-    - ⚡ Fun fact: I love draw manga and making custom website pages.<br>
-      <samp>
-        ###P.S. I do know that HTML is not a programming language! :v:###
-      </samp>
-    </p>
+  <div style=" height:150px;"> 
+        <div  align="right">
+             <img  src="dev img.png" width="350px" height="200px" align="right"> 
+        </div >
+  
+            - 🔭 I’m currently working as a Freelancer!
+            - 🌱 I’m learning NodeJs and Python.
+            - 👯 I'm looking to collaborate with other website creators.
+            - 🤔 I’m looking for help with PHP8, Angular, C#
+            - ⚡ Fun fact: I love draw manga and making custom
+              website pages.
+             
+                >P.S. I do know that HTML is not a programming language!<
+              
   </div>
 
   ---
-
-
-  <div>
- <!-- coleaqui -->
-     <img  align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-  <!-- /coleaqui -->
-
-      
-        👩‍💻 I am working on:
-
-        # Construction projects and my portfolio website.
-          (However, I think I'll wait to learn React before building the site.)
-        # Bootcamp Santander2021(28/06-12/09)
-        # Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"
-      
   
- </div>
- 
+  ---
+
+  <div >
+     <img  align="left" width="400px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&amp;layout=compact">
+
+      👩‍💻 I am working on:
+  
+       ◈Construction projects and my portfolio website<br>
+       ◈Bootcamp Santander2021(28/06-12/09)
+       ◈Introduction to Computer Science <br>
+        Harvard(CC50), "Fundação Estudar"
+  
+  </div>
+   
   ---
   
-###Skills
+  ---
+
   <!-- coleaqui -->
+  
+  <div align="left">
+  <div>
+      <img src="perfileu.png" alt="eu_perfil" width="240px" height="160px" align="right">
+  </div>
+    
     <skills nvl>
-          <htm> intermediate </html>
+          <html> intermediate </html>
           <css> intermediate </css>
           <javascript> intermediate </javascript>
-          <reactjs> running bootcamp finds </reactjs>
+          <reactjs> running bootcamp Localiza </reactjs>
      </skills nvl>
+   
+  <div>
+
+  
   <!-- /coleaqui -->
 
-<!-- List2_align left -->
-###Goals
-  <p align="left">
-  💡 Goals for 2020
+---
+    
+---
 
-  <li>My webisite up</li>
-  <li>Complete Bootcamp Santander Full Stack by September 2020</li>
-  <li>Create 10 projects</li>
-  <li>Learn "ReactJS" to the Intermediate</li>
-  <li>Work more on social media</li>
-  </p>
-  </div>
-<!-- /List2_align left -->
 
+
+  <div> 
+    <div >
+      <img align="left" src="https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" alt="cat" width="320px" height="180px" align="right"
+    </div>
+    
+      💡 Goals for 2020
+      
+      ◈ My webisite up 
+      ◈ Complete Bootcamp Santander 
+      ◈ Create 10 projects 
+      ◈ Learn "ReactJS" to the Intermediate 
+      ◈ Work more on social media 
+      
+   </div>   
+   
+    
+      
   ---
-
-  <!-- Addons_api -->
-
-  <!-- /Addons_api -->
 
   ---
 
 <!-- Icons_habilidades -->
-  <div align="center">
+  <div align="center" >
       <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
       <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
       <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="javascript" style="vertical-align:top; margin:4px">
