@@ -22,7 +22,7 @@ I´m a computer engineering student at the university center of the united metro
             - ⚡ Fun fact: I love draw manga and making custom
               website pages.
              
-                >P.S. I do know that HTML is not a programming language!<
+            >P.S. I do know that HTML is not a programming language!<
               
   </div>
 
