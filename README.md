@@ -31,7 +31,7 @@ I´m a computer engineering student at the university center of the united metro
   ---
 
   <div >
-     <img  align="left" width="400px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&amp;layout=compact">
+     <img  align="left" width="400px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Cloves-Rodrigues&show_icons=true&theme=radical&amp;layout=compact">
 
       👩‍💻 I am working on:
   
