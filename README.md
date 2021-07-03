@@ -25,24 +25,26 @@ I´m a computer engineering student at the university center of the united metro
 
   ---
 
-<!-- Github_Stats_Align_right-->
+
   <div>
  <!-- coleaqui -->
      <img  align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
   <!-- /coleaqui -->
-<!-- /Github_Stats_Align_right-->
-      <p>
+
+      
         👩‍💻 I am working on:
 
-        <li>Construction projects and my portfolio website.<br>
-        However, I think I'll wait to learn React before building the site.</li>
-        <li>Bootcamp Santander2021(28/06-12/09)</li>
-        <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-      </p>
+        # Construction projects and my portfolio website.
+          (However, I think I'll wait to learn React before building the site.)
+        # Bootcamp Santander2021(28/06-12/09)
+        # Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"
+      
+  
  </div>
+ 
   ---
-###Habiliades
-<!-- Github_top_linguagens_align_left -->
+  
+###Skills
   <!-- coleaqui -->
     <skills nvl>
           <htm> intermediate </html>
@@ -51,7 +53,6 @@ I´m a computer engineering student at the university center of the united metro
           <reactjs> running bootcamp finds </reactjs>
      </skills nvl>
   <!-- /coleaqui -->
-<!-- /Github_top_linguagens_align_left -->
 
 <!-- List2_align left -->
 ###Goals
@@ -93,7 +94,7 @@ I´m a computer engineering student at the university center of the united metro
 <!--  /Edit_tags_card  -->
   
   ---
- ###Social
+ 
 <!-- Social_midia_icon_link -->
   <div align="center">
     <a href="https://www.youtube.com/" rel="nofollow" target="_blank">
