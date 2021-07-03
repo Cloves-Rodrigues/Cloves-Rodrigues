@@ -26,29 +26,30 @@ I´m a computer engineering student at the university center of the united metro
   ---
 
 <!-- Github_Stats_Align_right-->
+  <div>
  <!-- coleaqui -->
      <img  align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
   <!-- /coleaqui -->
 <!-- /Github_Stats_Align_right-->
-<p>
-  👩‍💻 I am working on:
-  
-  <li>Construction projects and my portfolio website.<br>
-  However, I think I'll wait to learn React before building the site.</li>
-  <li>Bootcamp Santander2021(28/06-12/09)</li>
-  <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
-</p>
-  
+      <p>
+        👩‍💻 I am working on:
+
+        <li>Construction projects and my portfolio website.<br>
+        However, I think I'll wait to learn React before building the site.</li>
+        <li>Bootcamp Santander2021(28/06-12/09)</li>
+        <li>Introduction to Computer Science - Harvard(CC50), "Fundação Estudar"</li>
+      </p>
+ </div>
   ---
 ###Habiliades
 <!-- Github_top_linguagens_align_left -->
   <!-- coleaqui -->
-      <habilidades nvl>
-          <htm> intermadiário </html>
-          <css> intermediário </css>
-          <javascript> intermediário </javascript> 
-          <reactjs> cursando bootcamp localiza </reactjs>
-      </habilidades nvl>
+    <skills nvl>
+          <htm> intermediate </html>
+          <css> intermediate </css>
+          <javascript> intermediate </javascript>
+          <reactjs> running bootcamp finds </reactjs>
+     </skills nvl>
   <!-- /coleaqui -->
 <!-- /Github_top_linguagens_align_left -->
 
