@@ -1,8 +1,6 @@
   <!-- Header -->
   <img src="• dev_ (1).png" width="100%">
   <!-- Introduction: It´s me -->
-  <p align="center"><b>Hi there! I´m Cloves Neto,</b><br> an entusiasty web development and programming of systems ERP.
-I´m a computer engineering student at the university center of the united metropolitan colleges, night shift, I am in constant study improving my skills in web development and tools for ERP systems. Feel free, see the projects I developed and follow me to see future projects and tips for web programming in my social networks.</p>
 
   ---
  
@@ -16,11 +14,10 @@ I´m a computer engineering student at the university center of the united metro
         </div >
   
             - 🔭 I’m currently working as a Freelancer!
-            - 🌱 I’m learning NodeJs and Python.
-            - 👯 I'm looking to collaborate with other website creators.
-            - 🤔 I’m looking for help with PHP8, Angular, C#
-            - ⚡ Fun fact: I love draw manga and making custom
-              website pages.
+            - 🌱 I’m learning NodeJs and ReactJs
+            - 👯 I'm looking to collaborate with other developers.
+            - ⚡ Fun fact: I love draw manga
+            
              
             >P.S. I do know that HTML is not a programming language!<
               
@@ -36,7 +33,7 @@ I´m a computer engineering student at the university center of the united metro
       👩‍💻 I am working on:
   
        ◈Construction projects and my portfolio website<br>
-       ◈Bootcamp Santander2021(28/06-12/09)
+       ◈Bootcamp Inter 
        ◈Introduction to Computer Science <br>
         Harvard(CC50), "Fundação Estudar"
   
@@ -57,7 +54,6 @@ I´m a computer engineering student at the university center of the united metro
           <html> intermediate </html>
           <css> intermediate </css>
           <javascript> intermediate </javascript>
-          <reactjs> running bootcamp Localiza </reactjs>
      </skills nvl>
    
   <div>
@@ -76,13 +72,12 @@ I´m a computer engineering student at the university center of the united metro
       <img align="left" src="https://s18670.pcdn.co/wp-content/uploads/cat-typing.gif" alt="cat" width="320px" height="180px" align="right"
     </div>
     
-      💡 Goals for 2020
+      💡 Goals for 2022
       
       ◈ My webisite up 
-      ◈ Complete Bootcamp Santander 
-      ◈ Create 10 projects 
-      ◈ Learn "ReactJS" to the Intermediate 
-      ◈ Work more on social media 
+      ◈ Complete Bootcamp 
+      ◈ Creat 5 projetos
+   
       
    </div>   
    
