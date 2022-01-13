@@ -1,5 +1,5 @@
   <!-- Header -->
-  <img src="• dev_ (1).png" width="100%">
+  
   <!-- Introduction: It´s me -->
 
   ---
